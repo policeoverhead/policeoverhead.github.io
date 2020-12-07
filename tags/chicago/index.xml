@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chicago on Police Overhead</title>
+    <link>https://policeoverhead.github.io/tags/chicago/</link>
+    <description>Recent content in Chicago on Police Overhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Police Overhead</copyright>
+    <lastBuildDate>Wed, 02 Dec 2020 10:25:15 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/chicago/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chicago Police - October 2020</title>
+      <link>https://policeoverhead.github.io/summaries/chicago_police/2020/october/</link>
+      <pubDate>Wed, 02 Dec 2020 10:25:15 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/chicago_police/2020/october/</guid>
+      <description>In October 2020, Chicago Police flew 2 aircraft for a total of 74 hours. There were 56 flights. The longest was 3.36 hours</description>
+    </item>
+    
+  </channel>
+</rss>

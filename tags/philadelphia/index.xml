@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philadelphia on Police Overhead</title>
+    <link>https://policeoverhead.github.io/tags/philadelphia/</link>
+    <description>Recent content in Philadelphia on Police Overhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Police Overhead</copyright>
+    <lastBuildDate>Wed, 02 Dec 2020 10:36:02 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/philadelphia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philadelphia Police - October 2020</title>
+      <link>https://policeoverhead.github.io/summaries/philadelphia_police/2020/october/</link>
+      <pubDate>Wed, 02 Dec 2020 10:36:02 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/philadelphia_police/2020/october/</guid>
+      <description>In October 2020, Philadelphia Police flew 2 aircraft for a total of 64 hours. There were 55 flights. The longest was 3.37 hours</description>
+    </item>
+    
+  </channel>
+</rss>

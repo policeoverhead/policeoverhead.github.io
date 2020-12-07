@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LAPD on Police Overhead</title>
+    <link>https://policeoverhead.github.io/tags/lapd/</link>
+    <description>Recent content in LAPD on Police Overhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Police Overhead</copyright>
+    <lastBuildDate>Wed, 02 Dec 2020 11:47:09 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/lapd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LAPD - October 2020</title>
+      <link>https://policeoverhead.github.io/summaries/lapd/2020/october/</link>
+      <pubDate>Wed, 02 Dec 2020 11:47:09 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/lapd/2020/october/</guid>
+      <description>In October 2020, LAPD flew 16 aircraft for a total of 1162 hours. There were 600 flights. The longest was 5.21 hours</description>
+    </item>
+    
+  </channel>
+</rss>

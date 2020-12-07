@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Police Overhead</title>
-    <link>https://policeoverhead.github.io/</link>
-    <description>Recent content on Police Overhead</description>
+    <title>police on Police Overhead</title>
+    <link>https://policeoverhead.github.io/tags/police/</link>
+    <description>Recent content in police on Police Overhead</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, Police Overhead</copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 12:19:01 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>LAFD - November 2020</title>
-      <link>https://policeoverhead.github.io/summaries/lafd/2020/november/</link>
-      <pubDate>Wed, 02 Dec 2020 12:19:01 +0000</pubDate>
-      
-      <guid>https://policeoverhead.github.io/summaries/lafd/2020/november/</guid>
-      <description>In November 2020, LAFD flew 6 aircraft for a total of 113 hours. There were 145 flights. The longest was 2.81 hours</description>
-    </item>
-    
-    <item>
-      <title>LAFD - October 2020</title>
-      <link>https://policeoverhead.github.io/summaries/lafd/2020/october/</link>
-      <pubDate>Wed, 02 Dec 2020 12:11:57 +0000</pubDate>
-      
-      <guid>https://policeoverhead.github.io/summaries/lafd/2020/october/</guid>
-      <description>In October 2020, LAFD flew 6 aircraft for a total of 136 hours. There were 189 flights. The longest was 2.67 hours</description>
-    </item>
-    
+    <lastBuildDate>Wed, 02 Dec 2020 12:06:07 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/police/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phoenix Police - October 2020</title>
       <link>https://policeoverhead.github.io/summaries/phoenix_police/2020/october/</link>
@@ -95,17 +77,6 @@
       
       <guid>https://policeoverhead.github.io/summaries/nypd/2020/october/</guid>
       <description>In October 2020, NYPD flew 7 aircraft for a total of 123 hours. There were 156 flights. The longest was 2.69 hours</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://policeoverhead.github.io/about/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://policeoverhead.github.io/about/</guid>
-      <description>We monitor law enforcement and fire fighting aircraft in selected US cities. Real-time updates are provided via our Twitter accounts when aircraft are spotted in flight. Month-end statistics and analysis are provided here. Flight data provided by ADS-B Exchange
-We currently have three bots@policeoverhead Tweets about US state and local police aircraft@ffoverhead Tweets about US firefighting aircraft@fedsoverhead Tweets about US federal aircraft operating in and around the US
-Updates and announcements will be posted on this account</description>
     </item>
     
   </channel>

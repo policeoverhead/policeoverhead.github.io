@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fire on Police Overhead</title>
+    <link>https://policeoverhead.github.io/tags/fire/</link>
+    <description>Recent content in fire on Police Overhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Police Overhead</copyright>
+    <lastBuildDate>Wed, 02 Dec 2020 12:19:01 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/fire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LAFD - November 2020</title>
+      <link>https://policeoverhead.github.io/summaries/lafd/2020/november/</link>
+      <pubDate>Wed, 02 Dec 2020 12:19:01 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/lafd/2020/november/</guid>
+      <description>In November 2020, LAFD flew 6 aircraft for a total of 113 hours. There were 145 flights. The longest was 2.81 hours</description>
+    </item>
+    
+    <item>
+      <title>LAFD - October 2020</title>
+      <link>https://policeoverhead.github.io/summaries/lafd/2020/october/</link>
+      <pubDate>Wed, 02 Dec 2020 12:11:57 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/lafd/2020/october/</guid>
+      <description>In October 2020, LAFD flew 6 aircraft for a total of 136 hours. There were 189 flights. The longest was 2.67 hours</description>
+    </item>
+    
+  </channel>
+</rss>
