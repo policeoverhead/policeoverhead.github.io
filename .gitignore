@@ -1,5 +1,0 @@
-# Hugo default output directory
-/public
-/resources/_gen/
-hugo_stats.json
-.*.swp
