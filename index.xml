@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Police Overhead</title>
-    <link>https://example.com/</link>
+    <link>https://policeoverhead.github.io/</link>
     <description>Recent content on Police Overhead</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2020, Police Overhead</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2020, Police Overhead</copyright><atom:link href="https://policeoverhead.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://policeoverhead.github.io/about/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://policeoverhead.github.io/about/</guid>
       <description>We monitor law enforcement and fire fighting aircraft in selected US cities. Real-time updates are provided via our Twitter accounts when aircraft are spotted in flight. Month-end statistics and analysis are provided here. Flight data provided by ADS-B Exchange
 We currently have three bots@policeoverhead Tweets about US state and local police aircraft@ffoverhead Tweets about US firefighting aircraft@fedsoverhead Tweets about US federal aircraft operating in and around the US
 Updates and announcements will be posted on this account</description>
