@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Bernardino on Police Overhead</title>
+    <link>https://policeoverhead.github.io/tags/san-bernardino/</link>
+    <description>Recent content in San Bernardino on Police Overhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Police Overhead</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 14:28:07 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/san-bernardino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>San Bernardino County Sheriff - November 2020</title>
+      <link>https://policeoverhead.github.io/summaries/san_bernardino_county_sheriff/2020/november/</link>
+      <pubDate>Sat, 19 Dec 2020 14:28:07 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/san_bernardino_county_sheriff/2020/november/</guid>
+      <description>In November 2020, San Bernardino County Sheriff flew 8 aircraft for a total of 261 hours. There were 350 flights. The longest was 3.70 hours</description>
+    </item>
+    
+    <item>
+      <title>San Bernardino County Sheriff - October 2020</title>
+      <link>https://policeoverhead.github.io/summaries/san_bernardino_county_sheriff/2020/october/</link>
+      <pubDate>Sat, 19 Dec 2020 14:22:02 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/san_bernardino_county_sheriff/2020/october/</guid>
+      <description>In October 2020, San Bernardino County Sheriff flew 9 aircraft for a total of 263 hours. There were 343 flights. The longest was 4.06 hours</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CHP on Police Overhead</title>
+    <link>https://policeoverhead.github.io/tags/chp/</link>
+    <description>Recent content in CHP on Police Overhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Police Overhead</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 13:35:55 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/chp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>California Highway Patrol - November 2020</title>
+      <link>https://policeoverhead.github.io/summaries/california_highway_patrol/2020/november/</link>
+      <pubDate>Sat, 19 Dec 2020 13:35:55 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/california_highway_patrol/2020/november/</guid>
+      <description>In November 2020, California Highway Patrol flew 31 aircraft for a total of 862 hours. There were 939 flights. The longest was 7.61 hours</description>
+    </item>
+    
+    <item>
+      <title>California Highway Patrol - October 2020</title>
+      <link>https://policeoverhead.github.io/summaries/california_highway_patrol/2020/october/</link>
+      <pubDate>Sat, 19 Dec 2020 13:15:51 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/california_highway_patrol/2020/october/</guid>
+      <description>In October 2020, California Highway Patrol flew 30 aircraft for a total of 804 hours. There were 890 flights. The longest was 5.68 hours</description>
+    </item>
+    
+  </channel>
+</rss>
