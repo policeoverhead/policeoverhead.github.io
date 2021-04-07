@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CalFire on Police Overhead</title>
+    <link>https://policeoverhead.github.io/tags/calfire/</link>
+    <description>Recent content in CalFire on Police Overhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Police Overhead</copyright>
+    <lastBuildDate>Wed, 07 Apr 2021 08:56:06 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/calfire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CalFire - March 2021</title>
+      <link>https://policeoverhead.github.io/summaries/calfire/2021/march/</link>
+      <pubDate>Wed, 07 Apr 2021 08:56:06 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/calfire/2021/march/</guid>
+      <description>In March 2021, CalFire flew 39 aircraft for a total of 424 hours. There were 422 flights. The longest was 5.04 hours</description>
+    </item>
+    
+    <item>
+      <title>CalFire - February 2021</title>
+      <link>https://policeoverhead.github.io/summaries/calfire/2021/february/</link>
+      <pubDate>Wed, 07 Apr 2021 08:49:36 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/calfire/2021/february/</guid>
+      <description>In February 2021, CalFire flew 40 aircraft for a total of 251 hours. There were 243 flights. The longest was 4.91 hours</description>
+    </item>
+    
+    <item>
+      <title>CalFire - January 2021</title>
+      <link>https://policeoverhead.github.io/summaries/calfire/2021/january/</link>
+      <pubDate>Wed, 07 Apr 2021 08:44:06 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/summaries/calfire/2021/january/</guid>
+      <description>In January 2021, CalFire flew 29 aircraft for a total of 199 hours. There were 235 flights. The longest was 4.21 hours</description>
+    </item>
+    
+  </channel>
+</rss>
