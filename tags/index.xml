@@ -6,7 +6,11 @@
     <description>Recent content in Tags on Police Overhead</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, Police Overhead</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 08:58:18 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 08:58:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://policeoverhead.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Chicago</title>
       <link>https://policeoverhead.github.io/tags/chicago/</link>
@@ -206,20 +210,20 @@
     </item>
     
     <item>
+      <title>San Diego</title>
+      <link>https://policeoverhead.github.io/tags/san-diego/</link>
+      <pubDate>Wed, 02 Dec 2020 11:22:59 +0000</pubDate>
+      
+      <guid>https://policeoverhead.github.io/tags/san-diego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>San Diego County Sheriff</title>
       <link>https://policeoverhead.github.io/tags/san-diego-county-sheriff/</link>
       <pubDate>Wed, 02 Dec 2020 11:22:59 +0000</pubDate>
       
       <guid>https://policeoverhead.github.io/tags/san-diego-county-sheriff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>San Diego</title>
-      <link>https://policeoverhead.github.io/tags/san-diego/</link>
-      <pubDate>Wed, 02 Dec 2020 10:43:27 +0000</pubDate>
-      
-      <guid>https://policeoverhead.github.io/tags/san-diego/</guid>
       <description></description>
     </item>
     

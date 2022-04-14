@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://policeoverhead.github.io/</loc>
-    <lastmod>2021-04-07T08:58:18+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://policeoverhead.github.io/summaries/</loc>
     <lastmod>2021-04-07T08:58:18+00:00</lastmod>
   </url>
@@ -533,6 +528,11 @@
   </url>
   
   <url>
+    <loc>https://policeoverhead.github.io/tags/san-diego/</loc>
+    <lastmod>2020-12-02T11:22:59+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://policeoverhead.github.io/tags/san-diego-county-sheriff/</loc>
     <lastmod>2020-12-02T11:22:59+00:00</lastmod>
   </url>
@@ -540,11 +540,6 @@
   <url>
     <loc>https://policeoverhead.github.io/summaries/san_diego_county_sheriff/2020/october/</loc>
     <lastmod>2020-12-02T11:22:59+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://policeoverhead.github.io/tags/san-diego/</loc>
-    <lastmod>2020-12-02T10:43:27+00:00</lastmod>
   </url>
   
   <url>
@@ -569,6 +564,11 @@
   
   <url>
     <loc>https://policeoverhead.github.io/about/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://policeoverhead.github.io/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   

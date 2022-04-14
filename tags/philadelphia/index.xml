@@ -6,7 +6,11 @@
     <description>Recent content in Philadelphia on Police Overhead</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, Police Overhead</copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 10:36:02 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/philadelphia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Dec 2020 10:36:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://policeoverhead.github.io/tags/philadelphia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Philadelphia Police - October 2020</title>
       <link>https://policeoverhead.github.io/summaries/philadelphia_police/2020/october/</link>

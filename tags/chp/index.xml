@@ -6,7 +6,11 @@
     <description>Recent content in CHP on Police Overhead</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, Police Overhead</copyright>
-    <lastBuildDate>Tue, 06 Apr 2021 12:02:01 +0000</lastBuildDate><atom:link href="https://policeoverhead.github.io/tags/chp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 12:02:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://policeoverhead.github.io/tags/chp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>California Highway Patrol - March 2021</title>
       <link>https://policeoverhead.github.io/summaries/california_highway_patrol/2021/march/</link>
